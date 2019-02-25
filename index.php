@@ -1,2 +1,3 @@
 <?php
-phpinfo();
+
+echo "first modified file using git";
